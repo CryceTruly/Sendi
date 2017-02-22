@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SendI</string>
+    <string name="action_settings">Settings</string>
+    <string name="away">Away</string>
+    <string name="go_back">Go back</string>
+    <string name="enter_a_something_to_send">Enter a something to send</string>
+    <string name="go_next">Go Next</string>
+    <string name="here">Here</string>
+</resources>
+
+
